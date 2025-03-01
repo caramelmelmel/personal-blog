@@ -6,6 +6,8 @@ tags:
   [Black History Month, 2025, America, Ethical Research, Genetic Engineering]
 ---
 
+<!-- truncate -->
+
 As part of my effort this month to learn something new even if it's every weekend, I decided to get to know more about Black history and part of why every part of histroy is so complicated as it is. While I understand that this post is highly controversial to many because of the dark history of racism, I decided to understand history this time and why black history is actually essential for understanding.
 
 As key figures like Martin Luther King even got himself named a Martin Luther King Street in every American city, I decided to focus on not so well-understood figures this year.
@@ -45,3 +47,5 @@ As far as humans are concerned, our personal data even after death is still our 
 ## Conclusion
 
 Although black history is celebrated in only certain places, a lot of oppression of black history is still in place. Even if it's not history, every human still has rights but of course the world cannot be equal in everything that we have or do. Still, the obtaining of consent has to be done even until this day.
+
+Ethical research has always been somewhat controversial given backgrounds. Let alone prisoners of war still used to the country's advantage as an example. In what way should we ever decide on what kind of consent in our constitution is obtained and why should we do so?
