@@ -1,0 +1,12 @@
+melody:
+  name: Melody Leong
+  title: Software Engineer
+  url: https://caramelmelmel.github.io
+  image_url: https://github.com/caramelmelmel.png
+  page:
+    # customize the url of the author page at /blog/authors/<permalink>
+    permalink: "/melody-leong"
+  socials:
+    x: caramelmelmel
+    linkedin: melodyleongyunqin
+    github: caramelmelmel
